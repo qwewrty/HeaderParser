@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qwewrty/HeaderParser/issues"
   },
-  "homepage": "https://github.com/qwewrty/HeaderParser#readme"
+  "homepage": "https://github.com/qwewrty/HeaderParser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
